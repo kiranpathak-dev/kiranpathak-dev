@@ -9,6 +9,7 @@ Skills and Tools
 * Statistical Analysis: statsmodels
 * Machine Learning: scikit-learn
 * Machine Learning Models: Linear & Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
+* Deep Learning Frameworks: TensorFlow, Keras
 
 How I Can Help
 * 💡 Provide insights into complex datasets.
